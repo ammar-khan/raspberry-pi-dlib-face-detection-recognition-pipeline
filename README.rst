@@ -71,8 +71,8 @@ To Train:
 ---------
 >>> python3.5 train_dlib.py
 
-To Recognise/Steaming:
-----------------------
+To Recognise/Stream:
+--------------------
 >>> python3.5 main_dlib.py
 
 Streaming:
